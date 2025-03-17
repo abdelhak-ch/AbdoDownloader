@@ -1,0 +1,1 @@
+you just need yt_dlp and Tknter from python
